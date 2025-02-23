@@ -1,0 +1,193 @@
+/* about */
+@media screen and (max-width: 836px){
+    .title-with-dots-cont::before {
+        content: "";
+        position: absolute;
+        top: 52px;
+        left: 289px;
+        right: 56px;
+        width: 28%;
+        height: 4%;
+    }
+}
+@media screen and (max-width: 1400px){
+    .image-with-dots::before {
+        content: "";
+        position: absolute;
+        top: 179px;
+        left: -37px;
+        width: 90%;
+        height: 52%;
+        background-image: radial-gradient(circle, #ccc 1px, transparent 1px);
+        background-size: 10px 10px;
+        z-index: 0;
+    }
+}
+@media screen and (max-width: 1300px){
+    .image-with-dots::before {
+        content: "";
+        position: absolute;
+        top: 179px;
+        left: -37px;
+        width: 90%;
+        height: 52%;
+        background-image: radial-gradient(circle, #ccc 1px, transparent 1px);
+        background-size: 10px 10px;
+        z-index: 0;
+    }
+}
+@media screen and (max-width: 1100px){
+    .image-with-dots::before {
+        height: 31%;
+    }
+}
+@media screen and (max-width: 992px){
+    .image-with-dots::before {
+        height: 81%;
+    }
+}
+@media screen and (max-width: 770px){
+    .image-with-dots::before {
+        height: 73%;
+    }
+}
+@media screen and (max-width: 630px){
+    .image-with-dots::before {
+        height: 67%;
+    }
+}
+@media screen and (max-width: 545px){
+    .image-with-dots::before {
+        height: 55%;
+    }
+}
+/* services */
+@media screen and (max-width: 949px){
+    .title-with-dots-serv::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 19%;
+        height: 2%;
+        background-image: radial-gradient(circle, #d3d0d0b6 2px, transparent 1px);
+        background-size: 10px 10px; 
+        transform: translateY(50%); 
+        z-index: 0;
+      }
+}
+@media screen and (max-width: 650px){
+    .title-with-dots-serv::before {
+        content: "";
+        position: absolute;
+        top: 39px;
+        left: -3px;
+        right: 0;
+        margin: auto;
+        width: 25%;
+        height: 2%;
+    }
+}
+
+/* work(Portfolio) */
+
+@media screen and (max-width: 950px){
+    .title-with-dots-porf::before {
+        content: "";
+        position: absolute;
+        top: 47px;
+        left: 289px;
+        right: 56px;
+        width: 27%;
+        height: 3%;
+    }
+}
+@media screen and (max-width: 650px){
+    .title-with-dots-porf::before {
+        top: 49px;
+        left: 214px;
+    }
+}
+@media screen and (max-width: 500px){
+    .title-with-dots-porf::before {
+        top: 31px;
+        left: 162px;
+        right: 56px;
+        width: 33%;
+        height: 2%;
+    }
+}
+
+
+/* clients */
+@media screen and (max-width: 836px){
+    .title-with-dots-clin::before {
+        content: "";
+        position: absolute;
+        top: 42px;
+        left: 265px;
+        right: 56px;
+        width: 34%;
+        height: 7%;
+    }
+}
+@media screen and (max-width: 650px){
+    .title-with-dots-clin::before {
+        content: "";
+        position: absolute;
+        top: 35px;
+        left: 133px;
+        right: 56px;
+        width: 46%;
+        height: 7%;
+    }
+}
+
+/* teams */
+@media screen and (max-width: 836px){
+    .title-with-dots-team::before {
+        content: "";
+        position: absolute;
+        top: 20px;
+        left: 289px;
+        right: 0;
+        width: 28%;
+        height: 2%;
+    }
+}
+@media screen and (max-width: 650px){
+    .title-with-dots-team::before {
+        content: "";
+        position: absolute;
+        top: 42px;
+        left: 158px;
+        right: 0;
+        width: 34%;
+        height: 2%;
+    }
+}
+
+/* contect */
+@media screen and (max-width: 836px){
+    .title-with-dots-cont::before {
+        content: "";
+        position: absolute;
+        top: 52px;
+        left: 289px;
+        right: 56px;
+        width: 28%;
+        height: 4%;
+    }
+}
+@media screen and (max-width: 650px){
+    .title-with-dots-cont::before {
+        content: "";
+        position: absolute;
+        top: 41px;
+        left: 151px;
+        right: 56px;
+        width: 39%;
+        height: 3%;
+    }
+}
