@@ -17,17 +17,6 @@ body:has(.home.active) .navbar .nav-link {
     color: #ffffff;
 }
 
-
-/* 
-body:has(.about.active) .navbar {
-    background-color: #ffffff; 
-    color: rgb(0, 0, 0);
-  }
-
-  body:has(.about.active) .navbar .navbar-brand,
-  body:has(.about.active) .navbar .nav-link {
-    color: #000000;
-  } */
 .navbar {
     background-color: transparent;
     transition: all 0.3s ease;

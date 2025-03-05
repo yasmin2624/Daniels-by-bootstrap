@@ -191,3 +191,26 @@
         height: 3%;
     }
 }
+/* تحسين التصميم على الشاشات الصغيرة */
+@media (max-width: 768px) {
+    .home h2 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+
+    .home h2::after {
+        font-size: 1.5rem;
+        top: 3rem;
+    }
+
+    .social-icon {
+         /* رفع الأيقونات قليلاً */
+        gap: 5px;
+
+    }
+
+    .social-icon span {
+        font-size: 0.875rem;
+        padding: 8px;
+    }
+}
